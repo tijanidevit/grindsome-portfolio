@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome Hubspot Starter',
-  siteDescription: 'A Gridsome starter using Hubspot to create new contacts and deals to your Hubspot.',
+  siteName: 'Tijani Mustapha',
+  siteDescription: 'Web Developer | Student | Muslim.',
   siteUrl: 'https://gridsome-hubspot-starter.netlify.app',
   plugins: [
     {
@@ -45,8 +45,8 @@ module.exports = {
         pathPrefix: '/docs', // Add route prefix. Optional
         template: './src/templates/Documentation.vue', // Optional
         plugins: [
-          [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-      ],
+          ['gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true }]
+        ],
       }
     },
     {
@@ -97,7 +97,7 @@ module.exports = {
   transformers: {
     remark: {
       plugins: [
-        [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+        ['gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true }]
       ],
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
