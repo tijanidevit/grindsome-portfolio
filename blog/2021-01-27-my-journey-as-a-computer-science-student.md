@@ -1,5 +1,5 @@
 ---
-title: My Experience as a Computer Science Student, The Story and The Glory
+title: My Journey as a Computer Science Student, The Story and The Glory
 path: /my-journey-as-a-computer-science-student
 date: 2021-01-27
 summary: Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general. The decision to read computer science was therefore a simple one. My desire for solving challenging problems led to my choices of studying computer science.
