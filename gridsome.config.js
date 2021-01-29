@@ -67,7 +67,7 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'Gridsome Hubspot Starter Blog',
+          title: 'Tijani Mustapha',
           feed_url: 'https://tijanimustapha.netlify.app//rss.xml',
           site_url: 'https://tijanimustapha.netlify.app/'
         },
@@ -75,7 +75,7 @@ module.exports = {
           title: node.title,
           description: node.summary,
           url: 'https://tijanimustapha.netlify.app/' + node.path,
-          author: 'Hervé Fulchiron',
+          author: 'Tijani Mustapha',
           date: node.date
         }),
         output: {

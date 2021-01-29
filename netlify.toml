@@ -12,4 +12,4 @@
   status = 200
   
 [template.environment]
-  HUBSPOT_API_KEY = "Your Hubspot API key"
+  HUBSPOT_API_KEY = "67114ddf-3bbf-491c-a507-31929a748ec1"

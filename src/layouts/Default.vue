@@ -89,13 +89,14 @@
             v.0.0.1
           </div>
           <div>
-            <!-- <a
-              href="/rss.xml"
-              class="text-white hover:text-gray-400 font-normal"
-              >RSS Feed</a
-            >
-            |
+            Credits:
             <a
+              href="https://www.linkedin.com/in/hervefulchiron/"
+              class="text-white hover:text-gray-400 font-normal"
+              >Hervé Fulchiron</a
+            >
+            <!-- 
+            |<a
               href="/sitemap.xml"
               class="text-white hover:text-gray-400 font-normal"
               >Sitemap</a

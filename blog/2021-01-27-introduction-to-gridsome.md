@@ -2,7 +2,7 @@
 title: My Experience as a Computer Science Student, The Story and The Glory
 path: /my-journey-as-a-computer-science-student
 date: 2021-01-27
-summary: Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general. The decision to read computer science was therefore a simple one. My desire for solving challenging problems led to my choices of studying computer science .
+summary: Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general. The decision to read computer science was therefore a simple one. My desire for solving challenging problems led to my choices of studying computer science.
 tags: ['coding']
 ---
 
@@ -14,7 +14,7 @@ tags: ['coding']
 
 Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general. The decision to read computer science was therefore a simple one. My desire for solving challenging problems led to my choices of studying computer science. Solving these problems motivates me and has been my driving tool. Learning new tools, programming languages and frameworks is also very exciting, that's where I get my spark from!
 
-## The
+## The Curves and Edgy Roads
 
 ```js
 <template>
