@@ -1,26 +1,20 @@
 ---
-title: Being a Computer Science Student, The Story and The Glory
+title: My Experience as a Computer Science Student, The Story and The Glory
 path: /my-journey-as-a-computer-science-student
-date: 2019-04-08
-summary: Gridsome is a Vue.js-powered, modern site generator for building the fastest possible websites for any Headless CMS, APIs or Markdown-files. Gridsome makes it easy and fun for developers to create fast, beautiful websites without needing to become a performance expert.
-tags: ['frontend', 'coding', 'vue']
+date: 2021-01-27
+summary: Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general. The decision to read computer science was therefore a simple one. My desire for solving challenging problems led to my choices of studying computer science .
+tags: ['coding']
 ---
 
-![background](./images/blog_bg_1.jpg)
+![background](./images/computer-science.jpg)
 
-> Gridsome is a Vue.js-powered, modern site generator for building the fastest possible websites for any Headless CMS, APIs or Markdown-files. Gridsome makes it easy and fun for developers to create fast, beautiful websites without needing to become a performance expert.
+> Most users see a computer at the front and use the graphical user interfaces. The first time I used a computer, it intrigued me to know how these interfaces work, the theory behind computers and the methodology of how they work.
 
-### Why Gridsome?
+## Why Computer Science?
 
-- **Local development with hot-reloading** - See code changes in real-time.
-- **Data source plugins** - Use it for any popular Headless CMSs, APIs or Markdown-files.
-- **File-based page routing** - Quickly create and manage routes with files.
-- **Centralized data managment** - Pull data into a local, unified GraphQL data layer.
-- **Vue.js for frontend** - A lightweight and approachable front-end framework.
-- **Auto-optimized code** - Get code-splitting and asset optimization out-of-the-box.
-- **Static files generation** - Deploy securely to any CDN or static web host.
+Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general. The decision to read computer science was therefore a simple one. My desire for solving challenging problems led to my choices of studying computer science. Solving these problems motivates me and has been my driving tool. Learning new tools, programming languages and frameworks is also very exciting, that's where I get my spark from!
 
-[Learn more about how Gridsome works](/docs/how-it-works)
+## The
 
 ```js
 <template>

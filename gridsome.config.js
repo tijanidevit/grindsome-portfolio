@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Tijani Mustapha',
   siteDescription: 'Web Developer | Student | Muslim.',
-  siteUrl: 'https://gridsome-hubspot-starter.netlify.app',
+  siteUrl: 'https://tijanimustapha.netlify.app/',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
@@ -68,13 +68,13 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'Gridsome Hubspot Starter Blog',
-          feed_url: 'https://gridsome-hubspot-starter.netlify.app/rss.xml',
-          site_url: 'https://gridsome-hubspot-starter.netlify.app'
+          feed_url: 'https://tijanimustapha.netlify.app//rss.xml',
+          site_url: 'https://tijanimustapha.netlify.app/'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: 'https://gridsome-hubspot-starter.netlify.app' + node.path,
+          url: 'https://tijanimustapha.netlify.app/' + node.path,
           author: 'Hervé Fulchiron',
           date: node.date
         }),

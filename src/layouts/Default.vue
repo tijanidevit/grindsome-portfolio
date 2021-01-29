@@ -8,12 +8,8 @@
         class="container mx-auto flex flex-wrap justify-between items-center py-8"
       >
         <div>
-          <g-link v-if="theme === 'theme-light'" to="/"
-            ><g-image src="../../static/avatar.jpg" class="w-40" alt="logo"
-          /></g-link>
-          <g-link v-else to="/"
-            ><g-image src="../../static/avatar.jpg" class="w-40" alt="logo"
-          /></g-link>
+          <g-link v-if="theme === 'theme-light'" to="/">Home</g-link>
+          <g-link v-else to="/">Home</g-link>
         </div>
         <div class="block lg:hidden">
           <button
@@ -93,7 +89,7 @@
             v.0.0.1
           </div>
           <div>
-            <a
+            <!-- <a
               href="/rss.xml"
               class="text-white hover:text-gray-400 font-normal"
               >RSS Feed</a
@@ -103,7 +99,7 @@
               href="/sitemap.xml"
               class="text-white hover:text-gray-400 font-normal"
               >Sitemap</a
-            >
+            > -->
           </div>
         </div>
         <ul class="flex items-center space-x-8">
