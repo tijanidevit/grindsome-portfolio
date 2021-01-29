@@ -5,7 +5,7 @@ import DefaultLayout from '~/layouts/Default.vue'
 import VueScrollTo from 'vue-scrollto'
 import VueFuse from 'vue-fuse'
 
-export default function (Vue, { router, head, isClient }) {  
+export default function (Vue, { router, head, isClient }) {
 
   Vue.use(VueScrollTo, {
     duration: 500,
@@ -18,17 +18,17 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'keywords',
-    content: 'Gridsome,Hubspot,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS'
+    content: 'Gridsome,Hubspot,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,Web Developer, Tijani Mustapha, Mustapha Tijani,Xpat'
   })
 
   head.meta.push({
     name: 'description',
-    content: 'A Gridsome starter to create new contacts and deals to your Hubspot.'
+    content: 'Software Developer | Student | Muslim.'
   })
 
   head.meta.push({
     name: 'author',
-    content: 'Hervé Fulchiron'
+    content: 'Tijani Mustapha'
   })
 
   head.link.push({

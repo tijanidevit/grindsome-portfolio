@@ -89,7 +89,7 @@
             v.0.0.1
           </div>
           <div>
-            Credits:
+            Theme Credits:
             <a
               href="https://www.linkedin.com/in/hervefulchiron/"
               class="text-white hover:text-gray-400 font-normal"
