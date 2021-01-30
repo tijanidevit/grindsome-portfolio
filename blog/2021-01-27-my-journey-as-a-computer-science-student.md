@@ -14,49 +14,14 @@ tags: ['coding']
 
 Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general. The decision to read computer science was therefore a simple one. My desire for solving challenging problems led to my choices of studying computer science. Solving these problems motivates me and has been my driving tool. Learning new tools, programming languages and frameworks is also very exciting, that's where I get my spark from!
 
-## The Curves and Edgy Roads
+## The Story
 
-```js
-<template>
-  <Layout>
-    <div class="container-inner mx-auto my-16">
-      <h1 class="text-4xl font-bold leading-tight">{{ $page.post.title }}</h1>
-      <div class="text-xl text-gray-600 mb-8">{{ $page.post.date }}</div>
-      <div class="markdown-body" v-html="$page.post.content" />
-    </div>
-  </Layout>
-</template>
-```
+We burn the night candles to practise what we have learnt, learn new programming languages, frameworks and tools daily. Yet, we still need to meet up to the academic needs of the department and the school in general. We have to go to class, study all through the day, sit at class for some boring hours. We do have series of assignments to work on and submit. It has not been easy taking care and managing of both parts (the coding part and the academic part), at a time. It demands a lot to be a computer science student and one needs to be very active and ready to face the challenge.
 
+## The Glory
 
-### Prerequisites
-You should have basic knowledge about HTML, CSS, [Vue.js](https://vuejs.org) and how to use the [Terminal](https://www.linode.com/docs/tools-reference/tools/using-the-terminal/). Knowing how [Vue Single File components](https://vuejs.org/v2/guide/single-file-components.html) & [GraphQL](https://www.graphql.com/) works is a plus, but not required. Gridsome is a great way to learn both.
+As hectic and tedious as it may look, there is are lots of fun and interesting activities that make computer science a very interesting and importnat course of study. When you write a program that makes lives easier, how do you feel? Very happy righ and motivated! We must not always be a jerk, a nerd nor a Jack (who works all day and never plays). The course of study gives room for fun, enjoyment, social activities and anything worth spending one's time on. Most people believe they cannot enjoy their time and live fun filed lives because they are computer science students, that's not true and never will be
 
-Gridsome requires **Node.js** and recommends **Yarn**. [How to setup](/docs/prerequisites)
+## Conclusion
 
-![background](./images/background.jpg)
-
-### 1. Install Gridsome CLI tool
-
-Using yarn:
-`yarn global add @gridsome/cli`
-
-Using npm:
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to create a new project </li>
-2. `cd my-gridsome-site` to open folder
-3. `gridsome develop` to start local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
-
-### 3. Next steps
-
-1. Create `.vue` components in the `/pages` directory to create page routes.
-2. Use `gridsome build` to generate static files in a `/dist` folder
-
-
-- [How it works](/docs/how-it-works)
-- [How Pages work](/docs/pages)
-- [How to deploy](/docs/deployment)
+My experience as a computer science student has been fun filed with a lot of ups and downs, glory, fun and everything good. I never regret being one. I have met great people with great personalities. The lecturers of the department are great, welcoming and always treat us as their family members, which makes learning easier. My colleagues too are very awesome!
